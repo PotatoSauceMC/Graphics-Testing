@@ -1,4 +1,4 @@
-package tc.cornhub.psmc;
+package com.potatosaucevfx;
 import java.awt.Color;
 import java.awt.Graphics;
 

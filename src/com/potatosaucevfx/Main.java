@@ -1,4 +1,4 @@
-package tc.cornhub.psmc;
+package com.potatosaucevfx;
 import java.awt.BorderLayout;
 import java.awt.Canvas;
 import java.awt.Color;
